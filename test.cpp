@@ -1,5 +1,5 @@
 #include <iostream>
 int main(){
-    std::cout<<"fuck world"<<endl;
+    std::cout<<"life is strggule"<<endl;
     return 0;
 }
